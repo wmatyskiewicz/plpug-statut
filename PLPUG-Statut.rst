@@ -53,27 +53,28 @@ Art. 8.
 
 Celami Stowarzyszenia są:
 
-#. Budowa i integracja polskiej społeczności języka programowania Python.
+#. Budowa i integracja polskiej społeczności użytkowników języka programowania Python.
 #. Popularyzacja języka programowania Python, jak również związanego z nim oprogramowania.
 #. Reprezentowanie członków Stowarzyszenia, ich opinii i potrzeb.
 #. Organizowanie bądź współorganizowanie wydarzeń.
 #. Wspieranie lokalnych grup użytkowników Pythona, kół naukowych i innych inicjatyw.
-#. Wspieranie i mentoring około-pythonowych projektów.
-#. Wspieranie rozwoju rynku programistów języka programowania Python.
+#. Wspieranie i mentoring projektów bazujących na Python-ie.
+#. Wspieranie rozwoju rynku programistów Python.
 #. Realizacja projektów edukacyjnych w szkolnictwie z wykorzystaniem języka programowania Python.
+#. Tworzenie i rozwijanie projektów open-source bazujących na Python.
 
 Art. 9.
 
 Sposoby realizacji celów:
 
-#. Tworzenie wolnego oprogramowania wspierającego działanie Stowarzyszenia.
+#. Tworzenie i rozwój wolnego oprogramowania wspierającego działanie Stowarzyszenia.
 #. Utrzymywanie infrastruktury stymulującej rozwój Stowarzyszenia.
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
 
     * działalność społeczności języka programowania Python,
     * aktualizacje języka programowania Python, jak również związanego z nim oprogramowania,
     * patronat medialny konferencji, warsztatów, szkoleń i innych inicjatyw,
-    * publikacja okołopythonowych artykułów i poradników użytkownika,
+    * publikacja artykułów i poradników użytkownika,
     * recenzje książek poświęconych tematyce języka programowania Python.
 
 #. Promowanie i zarządzanie polską planetą programistów języka programowania Python.
@@ -185,9 +186,9 @@ Członek wspierający Stowarzyszenie ma obowiązek:
 
 Art. 25.
 
-Członek zwyczajny Stowarzyszenia ma prawo:
+Członek zwyczajny Stowarzyszenia ma prawo do:
 
-#.  uczestnictwo w Walnych Zebraniach Członków,
+#.  uczestnictwa w Walnych Zebraniach Członków,
 #.  wybierania i bycia wybieranym do władz Stowarzyszenia,
 #.  uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
 #.  korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia,
